@@ -3,8 +3,8 @@ import { FC } from "react";
 
 const PROJECTS = [
   {
-    title: "CloudVault",
-    image: "/screenshots/cloudvault.webp",
+    title: "California State Roleplay",
+    image: "",
     imageAlt: "Screenshot",
     href: "https://csrperlc.vercel.app/",
     description: [

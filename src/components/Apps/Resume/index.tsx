@@ -6,7 +6,7 @@ export const Resume: FC = () => {
     <div className="flex h-full flex-col">
       <div className="flex items-center gap-1.5 px-1 py-1.5">
         <a
-          href="/documents/prem_kumar_resume.pdf"
+          href=""
           download={true}
           className="button-98 flex w-fit items-center gap-1 px-1.5 py-[2.5px] text-xs text-accent underline"
         >
@@ -22,7 +22,7 @@ export const Resume: FC = () => {
 
         <a
           target="_blank"
-          href="/documents/prem_kumar_resume.pdf"
+          href=""
           className="button-98 flex w-fit items-center gap-1 px-1.5 py-[2.5px] text-xs text-accent underline"
         >
           <Image
@@ -39,7 +39,7 @@ export const Resume: FC = () => {
       <div className="border border-b-white border-t-[#808080]" />
 
       <iframe
-        src="/documents/prem_kumar_resume.pdf"
+        src=""
         className="h-full w-full"
       />
     </div>

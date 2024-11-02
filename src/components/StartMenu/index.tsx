@@ -5,28 +5,18 @@ import { Icon } from "@iconify/react";
 const ITEMS = [
   {
     label: "Email",
-    href: "mailto:premkumar5012002@gmail.com",
+    href: "mailto:mxsonn@tyry.services",
     icon: "skill-icons:gmail-light",
   },
   {
-    label: "Linkedin",
-    href: "https://www.linkedin.com/in/premkumar5102",
-    icon: "skill-icons:linkedin",
-  },
-  {
     label: "Github",
-    href: "https://github.com/premkumar5012002",
+    href: "https://github.com/MxsonnGithub",
     icon: "skill-icons:github-light",
   },
   {
     label: "Twitter",
-    href: "https://twitter.com/premkumar5102",
+    href: "https://twitter.com/WolfyX__",
     icon: "skill-icons:twitter",
-  },
-  {
-    label: "Source code",
-    href: "https://github.com/premkumar5012002/portfolio",
-    icon: "logos:opensource",
   },
 ];
 
@@ -35,7 +25,7 @@ export const StartMenu: FC = () => {
     <div className="absolute bottom-10 left-0 flex h-[250px] w-52 border-2 border-[#7c7c7c] border-l-white border-t-white bg-silver">
       <div className="w-[26px] bg-accent">
         <p className="translate-y-[210px] -rotate-90 text-lg font-bold text-white">
-          Prem<span className="ml-1.5">Kumar</span>
+          <span className="ml-1.5">NotMxsonn</span>
         </p>
       </div>
 

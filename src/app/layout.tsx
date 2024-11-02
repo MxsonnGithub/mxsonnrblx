@@ -15,10 +15,10 @@ const ms_sans_serif = localFont({
 });
 
 export const metadata = {
-  author: "Prem Kumar",
-  title: "Prem Kumar - Full Stack Developer",
+  author: "NotMxsonn",
+  title: "Mxsonn - Web Developer",
   description:
-    "Full Stack Developer, Loves to build things on the web with Code and lot of Coffee.",
+    "Hey, I am a 13 y/o that just randomly started coding and then it became my passion!",
 };
 
 export default function RootLayout({

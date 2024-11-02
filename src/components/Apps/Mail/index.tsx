@@ -36,7 +36,7 @@ export const Mail: FC = () => {
                   <span className="break-all">
                     Unable to send your mail, please contact by mail{" "}
                     <span className="text-accent">
-                      premkumar5012002@gmail.com
+                      mxsonn@tyry.services
                     </span>
                   </span>
                 ) : (
@@ -63,7 +63,7 @@ export const Mail: FC = () => {
         <div className="border border-b-white border-t-[#808080]" />
 
         <div className="flex gap-3 px-1">
-          To: <span className="text-black">premkumar5012002@gmail.com</span>
+          To: <span className="text-black">mxsonn@tyry.services</span>
         </div>
 
         <div className="border border-b-white border-t-[#808080]" />
